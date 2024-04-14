@@ -24,3 +24,14 @@ For details, please see the [.sol file](./SimpleStorage.sol)!
 - Arrays, mappings
 - How to deploy a smart contract in Remix to testnet / local VM
 - How to interact with contract from Remix
+
+## Useful links
+
+- https://updraft.cyfrin.io/courses/solidity/simple-storage/introduction
+- https://github.com/cyfrin/remix-simple-storage-f23
+- https://docs.soliditylang.org/en/v0.8.13/
+- https://docs.soliditylang.org/en/latest/types.html
+- https://docs.soliditylang.org/en/latest/contracts.html#visibility-and-getters
+- https://docs.soliditylang.org/en/latest/cheatsheet.html#function-visibility-specifiers
+- https://docs.soliditylang.org/en/latest/cheatsheet.html#modifiers
+- https://solidity-by-example.org/mapping/
